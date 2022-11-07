@@ -20,8 +20,7 @@ export default function App() {
         <Text style={estilos.subtitulo}>
           Trabalhando com desenvolvimento de apps
         </Text>
-
-        <Button style={estilos.botao} title="ENVIAR" />
+        {/* <Button style={estilos.botao} title="ENVIAR" /> */}
         <TouchableOpacity>
           <Text style={estilos.botao}>ENVIAR</Text>
         </TouchableOpacity>

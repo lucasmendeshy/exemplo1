@@ -31,8 +31,8 @@ const estilos = StyleSheet.create({
     fontSize: 20,
     color: "white",
     padding: 20,
+    textAlign: "center",
   },
-  textoBotao: {},
 });
 
 export default estilos;
